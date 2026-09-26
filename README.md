@@ -192,3 +192,6 @@ A aplicação abrirá automaticamente no seu navegador padrão em `http://localh
 * Mateus Ieno Ramalho
 * Heitor de Oliveira Mamede
 * João Gabriel Barreto de Araújo Falcão
+
+**Auxílio:**
+* Gemini 3.1 pro
