@@ -101,9 +101,9 @@ def get_corpus_embeddings(texts: List[str]):
 corpus_embeddings = get_corpus_embeddings([doc["Texto"] for doc in documents_data])
 
 # -----------------------------------------------------------------------------
-# CONFIGURAÇÃO DA PÁGINA STREAMLIT
 # -----------------------------------------------------------------------------
-st.set_page_config(page_title="HealthSearch - Motor Híbrido", page_icon="🏥", layout="wide")
+# PARÂMETROS E CONTROLES
+# -----------------------------------------------------------------------------
 
 
 # -----------------------------------------------------------------------------
